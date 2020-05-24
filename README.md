@@ -13,8 +13,6 @@ SSL化していないので、警告表示が出ます。</br>
 ## Version
 PHP 7.0.33
 
-## Usage
-
 ## Install
 ローカル環境下ではXAMPPを使用
 
