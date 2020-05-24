@@ -19,5 +19,5 @@ PHP 7.0.33
 ローカル環境下ではXAMPPを使用
 
 ## DB
-こちらのMySQLの全国版を使用
+こちらのMySQLの全国版を使用</br>
 http://jusyo.jp/sql/new.php
